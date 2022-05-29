@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+.parent {
+    background-color: goldenrod;
+    height: 200vh;
+    position: relative;
+}
+.child-one {
+    background-color: aqua;
+    position: absolute;
+
+}
+.child-two {
+    background-color: black;
+    position: absolute;
+    top: ;
+}

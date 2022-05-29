@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    direction: rtl !important;
+}
+body {
+    color: white !important;
+    background-color: #1e272e !important;
+}
+
+#logo {
+    height: 50px;
+    width: 50px;
+    float: left !important;
+}
+#large-nav {
+    border-color: #ffa801 !important;
+}
+
+li {
+    list-style-type: none;
+    position: relative;
+    bottom: 8px;
+ }
+ .main {
+     background-color: #1e272e;
+     
+    }
+.nav-item{
+        background-color: #1e272e;
+    }
+    
+.contact-me {
+        direction: ltr !important;
+        text-align: center !important;
+        background-color: #3d5888 !important;
+    }
+.container-fluid {
+        background-color: #ffa801;
+    }
+
+.house {
+        padding-top: 2px;
+    }
+    
+.dropdown-menu-large{
+        margin-left:900px !important;
+        background-color: #1e272e !important;
+        border: 2px solid #fff !important;
+    }
+    
+.dropdown-menu-large>li > a {
+    color: white !important;
+    text-align: center !important;
+    background-color: #1e272e !important;
+    
+
+}
+
+.dropdown-menu-large>li :hover {
+    color: #ffa801 !important;
+}
+
+.drop-down-small {
+    width: 100% !important;
+    color: #fff !important;
+}
+
+.small-nav {
+    color: white !important;
+}
+
+.dropdown-menu-small {
+    background-color: #1e272e !important;
+    color: white !important;
+}
+
+.dropdown-menu-small>li :hover {
+    color: #ffa801 !important;
+    background-color: #1e272e;
+}
+
+.dropdown-item {
+    color: white !important;
+}
+.small-nav > a {
+    color: wheat !important;
+}

@@ -1,0 +1,8 @@
+{
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "isProgrammer": true,
+    "friends": ["Mike","John","Ronaldo"]
+}
+
